@@ -18,7 +18,7 @@ Feb 3, 2025
   	• Presentor(1): Who will give the presentation
 
  ## Role Assignment:
-	 Prototyper: Bowen Tao(Frank), Vivek & asesha
+	 Prototyper: Bowen Tao(Frank), Vivek & Aesha
 	 Mindmap Driver:
 	 Presentor:
    	 Tester
