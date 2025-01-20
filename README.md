@@ -12,13 +12,13 @@ Feb 3, 2025
 
 ## Role Introduction:
 	• Mindmap Driver(1): Who plots a mindmap for the possible paths of the research
-	• Prototyper(s)(2): Vivek & Aesha  Whom will experiment in Python with various algorithms
+	• Prototyper(s)(2):  Whom will experiment in Python with various algorithms
 	• Tester(2): Who will generate test cases and test if the program can pass all the cases
 	• Editor(2): Who will edit and revise the executive summary document and the PPT presentation slides.
   	• Presentor(1): Who will give the presentation
 
  ## Role Assignment:
-	 Prototyper: Bowen Tao(Frank)
+	 Prototyper: Bowen Tao(Frank), Vivek & asesha
 	 Mindmap Driver:
 	 Presentor:
    	 Tester
